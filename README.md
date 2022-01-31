@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshaychoudhary96
+- 👋 Hi, I’m Akshay Choudhary
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning Reinforcement Learning
 
